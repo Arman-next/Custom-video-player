@@ -1,4 +1,4 @@
-# 🌦️ Custom-Video-Player
+# ▶️ Custom-Video-Player
 
 A simple custom video player application where you can play video with some functions.
 
