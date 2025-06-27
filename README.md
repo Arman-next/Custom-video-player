@@ -56,7 +56,7 @@ A simple custom video player application where you can play video with some func
 ## 📁 Folder Structure
 
 ```bash
-Weather-App-JS/
+Custom-video-player/
 ├── index.html
 ├── style.css
 └── script.js
